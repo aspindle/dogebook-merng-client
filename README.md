@@ -26,3 +26,5 @@ This now abandoned project consists of two repositories:
 <A href="https://github.com/aspindle/dogebook-merng-server">Server code</a>
 
 A video explaining the use and concept behind dogebook can be found <a href="https://www.youtube.com/watch?v=gdNLZUEBE7M">here.</a>
+
+The tutorial I followed can be found <a href="https://www.youtube.com/playlist?list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP">here.</a>
